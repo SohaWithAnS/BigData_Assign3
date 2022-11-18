@@ -1,5 +1,3 @@
 Queries: 
 
  a. Find the top 5 nodes with the highest outdegree and find the count of the number of outgoing edges in each
-
- b. Find the top 5 nodes with the highest indegree and find the count of the number of incoming edges in eachDataFrame[id: string, inDegree: int]
