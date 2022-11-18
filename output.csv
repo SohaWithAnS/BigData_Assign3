@@ -1,1 +1,6 @@
-a. Find the top 5 nodes with the highest outdegree and find the count of the number of outgoing edges in eachNone
+a. Find the top 5 nodes with the highest outdegree and find the count of the number of outgoing edges in eachid,outDegree
+1773,540
+166,349
+3401,257
+1924,241
+581,238
