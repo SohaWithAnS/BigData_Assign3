@@ -5,3 +5,12 @@ id	outDegree
 3401	257
 1924	241
 581	238
+
+
+b. Find the top 5 nodes with the highest indegree and find the count of the number of incoming edges in each
+id	inDegree
+4949	465
+5842	278
+3401	208
+1773	180
+6136	153
