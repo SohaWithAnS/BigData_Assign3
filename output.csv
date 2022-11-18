@@ -14,3 +14,25 @@ id	inDegree
 3401	208
 1773	180
 6136	153
+
+
+c. Calculate PageRank for each of the nodes and output the top 5 nodes with the highest PageRank values. You are free to define any suitable parameters.
+id	pagerank
+4949	56.88423487471755
+5842	43.01373770310354
+7065	42.53972872050095
+5269	37.31557781965594
+6921	35.87947693988112
+
+
+d. Run the connected components algorithm on it and find the top 5 components with the largest number of nodes.
+component	count
+
+
+e. Run the triangle counts algorithm on each of the vertices and output the top 5 vertices with the largest triangle count. In case of ties, you can randomly select the top 5 vertices.
+id	count
+4949	1522
+166	1141
+1773	944
+5842	934
+2345	857
