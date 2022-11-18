@@ -1,1 +1,9 @@
-
+Q,u,e,r,i,e,s,:, ,"
+"
+"
+", ,a,., ,F,i,n,d, ,t,h,e, ,t,o,p, ,5, ,n,o,d,e,s, ,w,i,t,h, ,t,h,e, ,h,i,g,h,e,s,t, ,o,u,t,d,e,g,r,e,e, ,a,n,d, ,f,i,n,d, ,t,h,e, ,c,o,u,n,t, ,o,f, ,t,h,e, ,n,u,m,b,e,r, ,o,f, ,o,u,t,g,o,i,n,g, ,e,d,g,e,s, ,i,n, ,e,a,c,h
+Column<'id'>,Column<'outDegree'>
+"
+","
+", ,b,., ,F,i,n,d, ,t,h,e, ,t,o,p, ,5, ,n,o,d,e,s, ,w,i,t,h, ,t,h,e, ,h,i,g,h,e,s,t, ,i,n,d,e,g,r,e,e, ,a,n,d, ,f,i,n,d, ,t,h,e, ,c,o,u,n,t, ,o,f, ,t,h,e, ,n,u,m,b,e,r, ,o,f, ,i,n,c,o,m,i,n,g, ,e,d,g,e,s, ,i,n, ,e,a,c,h
+Column<'id'>,Column<'inDegree'>
